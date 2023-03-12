@@ -46,7 +46,7 @@ body{
         transform: rotatex(-20deg) rotateY(0deg);
     }
 }
-/* .cube .big span
+ .cube .big span
 {
     position: absolute;
     width: 300px;
@@ -142,4 +142,4 @@ filter: drop-shadow(0 0 20px #ffa20d);
             transform: translateZ(-350px);
             background: rgba(0,0,0,0.35);
         filter: blur(50px);
-        } */
+        } 
